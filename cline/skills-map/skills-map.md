@@ -22,7 +22,6 @@ Each skill is its own git repo — clone the one you need.
 |-------|-------------|--------------|
 | mybd-cryfs | https://github.com/bigdata2211it-web/ai-vault-skills | Encrypted credentials vault with cryfs (FUSE): cross-platform install, migration, daily open/close, auto-lock, agent discipline, backup, password change, troubleshooting. |
 | wine-exe-fix | https://github.com/bigdata2211it-web/ai-wine-skills | Diagnose and fix Windows .exe launch failures under Wine: 32/64-bit prefix, .NET runtime, missing NuGet DLLs, assembly vs package version, binding redirects, DirectX, fonts, VC++ runtimes, MSI/COM/registry fixes, `.desktop` launchers. |
-| caveman | (built into opencode, not a standalone repo) | Ultra-compressed communication mode — cuts token usage ~75% by speaking like caveman while keeping full technical accuracy. Intensity levels: lite, full, ultra, wenyan-*. |
 
 ## Persistence of this skill
 
